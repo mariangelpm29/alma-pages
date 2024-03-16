@@ -3,7 +3,7 @@
 }
 body{
     margin: 0;
-    background-image:url(./imagenes/backgr.png);
+    background-image:url(./imgs/backgr.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
